@@ -1,0 +1,3 @@
+Something I've Learned
+
+I've learned that Git is a tool for tracking changes in my code. GitHub is where I can save my projects online and share them with others. Using the command line seemed scary at first, but now I understand it's just a way to give instructions to my computer!
